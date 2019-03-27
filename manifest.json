@@ -1,7 +1,7 @@
 {
     "name": "Web-App Test",
     "short-name": "Web-App Test",
-    "start_url": "/index.php",
+    "start_url": "/index.html",
     "display": "standalone",
     "background-color": "#fff",
     "description": "Web-App test application, testing dynamic homepage icon",
@@ -34,6 +34,16 @@
         {
             "src": "attribute/img/test192.png",
             "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "attribute/img/test384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "attribute/img/test512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ]
