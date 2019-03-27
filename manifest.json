@@ -1,7 +1,7 @@
 {
     "name": "Web-App Test",
     "short-name": "Web-App Test",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background-color": "#fff",
     "description": "Web-App test application, testing dynamic homepage icon",
